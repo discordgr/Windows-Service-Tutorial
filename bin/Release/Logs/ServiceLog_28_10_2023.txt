@@ -1,0 +1,29 @@
+Service started at 28/10/2023 13:47:02
+Time is: 28/10/2023 13:47:17
+Cannot open database "DotNetCourseDatabase" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+Accessing Database...
+Reading from Database ended...
+Exiting Database...
+Time is: 28/10/2023 13:47:32
+Cannot open database "DotNetCourseDatabase" requested by the login. The login failed.
+Login failed for user 'NT AUTHORITY\SYSTEM'.
+Accessing Database...
+Reading from Database ended...
+Exiting Database...
+Time is: 28/10/2023 13:47:47
+Accessing Database...
+Connection State: Open
+1 Albertina O'Finan aofinan0@blogspot.com
+2 Panagiotis Milios panayiotismilios@gmail.com
+3 Farica Wynn fwynn2@redcross.org
+4 Bordie Rodda brodda3@columbia.edu
+5 Charley Pack cpack4@answers.com
+6 Morganne Clother mclother5@nifty.com
+7 Arty Gillott agillott6@barnesandnoble.com
+8 Thorvald Vines tvines7@cloudflare.com
+9 Hilarius Nicholl hnicholl8@amazonaws.com
+10 Enriqueta Tilston etilston9@cbc.ca
+Reading from Database ended...
+Exiting Database...
+Service stopped at: 28/10/2023 13:48:02
